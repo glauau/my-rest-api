@@ -1,5 +1,5 @@
 FROM python:3.10
-
+q
 #Copying files
 RUN mkdir /the-app
 COPY ./the-app/* the-app/
